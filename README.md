@@ -11,3 +11,7 @@ Test time reporting over Git plugin 2 - days value
 
 Testing workflow statuses switch - multiple transitions at once
 
+Testing branches and commit commands
+
+
+
