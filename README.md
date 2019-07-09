@@ -13,5 +13,5 @@ Testing workflow statuses switch - multiple transitions at once
 
 Testing branches and commit commands
 
-
+Testing Git tags parsing
 
