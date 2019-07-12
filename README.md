@@ -15,3 +15,4 @@ Testing branches and commit commands
 
 Testing Git tags parsing
 
+Trying to assign an issue over smart commits.
