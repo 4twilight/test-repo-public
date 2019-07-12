@@ -17,4 +17,4 @@ Testing Git tags parsing
 
 Trying to assign an issue over smart commits.
 
-Another try to assign an issue over smart commits over user's email address.
+Another try to assign an issue over smart commits over user's email address!
